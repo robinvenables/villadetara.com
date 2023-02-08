@@ -1,0 +1,41 @@
+---
+title: "Where We Are"
+date: 2021-06-01T08:00:00+01:00
+draft: false
+menu: side
+lead: "Where we are on the map"
+post_meta: []
+---
+
+<style type="text/css">
+  #map {
+    height: 400px;
+    width: 100%;
+  }
+</style>
+
+<script>
+  function initMap() {
+    const villa = { lat: 35.405466, lng: 24.252771 };
+    const heraklion = { lat: 35.346518, lng: 25.136615 }
+
+    const map = new google.maps.Map(document.getElementById("map"), {
+      zoom: 8,
+      center: heraklion,
+      mapTypeId: 'terrain'
+    });
+
+    const marker = new google.maps.Marker({
+      position: villa,
+      map: map,
+      label: "Villa de Tara"
+    });
+  };
+</script>
+
+<div id="map"></div>
+
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB80TZFinJk3mBKVuadiW-v8loT8MB5P-g&callback=initMap&libraries=&v=weekly"
+  async
+></script>

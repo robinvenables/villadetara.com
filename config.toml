@@ -1,0 +1,56 @@
+baseurl = "https://villadetara.com/"
+title = "Villa de Tara"
+languageCode = "en-gb"
+#paginate = "5"
+theme = "mainroad"
+newContentEditor = "atom"
+
+[Author]
+  name = "Robin Venables"
+  address = "https://robinvenables.com/"
+  bio = "Husband, Father, German Shepherd Dog Owner, Scuba Diver and IT Infrastructure Consultant"
+  avatar = "images/robin-venables.jpg"
+
+[Params]
+  description = "Amazing sea views just outside the village of Kefalas in Crete"
+  mainSections = ["information", "news", "posts"]
+  post_meta = ["date", "categories"]
+  dateformat = "2 January 2006"
+  customCSS = ["css/villa-de-tara.css"]
+  pager = true
+  themeVersion = "1.0.0"
+
+[Params.logo]
+  title = "Villa de Tara"
+  subtitle = "Kefalas, Crete"
+  image = "images/pool-view.jpeg"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["categories", "taglist", "sidemenu"]
+
+[Params.style.vars]
+  highlightColor = "#0d5eaf"
+
+[Deployment]
+
+  [[Deployment.targets]]
+    name = "AWS S3"
+    URL = "s3://villadetara.com?region=eu-west-2"
+    cloudFrontDistributionID = "E33G0WVXUM35IK"
+
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^atom$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
