@@ -1,4 +1,4 @@
-name: Build and Deploy villadetara.com Hugo Site
+name: Build and Deploy villadetara.com
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
         with:
           hugo-version: '0.110.0'
 
-      - name: Build
+      - name: Build website
         run: hugo --minify --verbose
 
       - name: Deploy to S3
