@@ -1,9 +1,9 @@
 ---
 title: "Psaros Restaurant"
+type: "post"
 date: 2021-08-04T17:52:52+01:00
 draft: true
 lead: "A friendly restaurant serving delicious food right on the beach in Almyrida"
-categories: ["reviews"]
 tags: ["almyrida","food","restaurants"]
 post_meta: []
 ---

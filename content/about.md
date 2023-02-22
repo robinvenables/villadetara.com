@@ -2,8 +2,6 @@
 title: "About"
 date: 2021-06-01T08:00:00+01:00
 draft: false
-lead: "A villa with amazing sea views and a private pool"
-menu: side
 post_meta: []
 ---
 ![Villa de Tara](/images/sunrise.jpeg)
