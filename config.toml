@@ -77,7 +77,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "About"
-    pre = "<span data-feather='help-circle'></span>"
+    pre = "<span data-feather='info'></span>"
     url = "/about/"
     weight = 40
 
