@@ -1,6 +1,10 @@
 /* villa de Tara amendments to Gokarna CSS */
 
 /* Footer */
+.footer {
+	font-size: 12px
+}
+
 .footer a:any-link{
 	text-decoration: none;
 }
