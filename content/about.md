@@ -10,4 +10,4 @@ Villa de Tara is a 3 bedroom, 3 bathroom home with stunning sea and mountain vie
 
 The lower floor is open-plan with patio doors from the lounge overlooking the terrace and the private infinity pool. There is a double bedroom on this floor with a good-sized shower room, while upstairs there are a further 2 double bedrooms, one of which is ensuite, and a separate bathroom.
 
-Outside, the villa faces the sea to the east with a beautiful view down the coast to Rethymno. The 30m² pool has an outdoor shower, kitchen and BBQ area next to it. In addition, there are sunbathing and terraced areas alongside. The stepped levels below have a wide selection of almond, chestnut, olive, orange and walnut trees.
+Outside, the villa faces the sea to the east with a beautiful view down the coast to Rethymno. The 30m² pool has an outdoor shower, kitchen and BBQ area next to it. In addition, there are sunbathing and terraced areas alongside. The stepped levels below have a wide selection of almond, cherry, chestnut, olive, orange and walnut trees.
