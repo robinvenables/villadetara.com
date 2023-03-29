@@ -1,14 +1,20 @@
 /* villadetara.com amendments to Gokarna CSS */
 
+/* Home Page */
+.home-about, .home-content a:any-link {
+  text-decoration: none;
+}
+
 /* Post */
 .post-date-sub {
 	font-size: 14px
 }
+
 /* Footer */
 .footer {
 	font-size: 12px
 }
 
-.footer a:any-link{
+.footer a:any-link {
 	text-decoration: none;
 }
