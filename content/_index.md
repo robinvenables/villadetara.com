@@ -6,7 +6,7 @@ draft: false
 
 Welcome to the website for our wonderful home, Villa de Tara, on the beautiful island of Crete!
 
-You can find [posts][1] about what is happening at the villa and in Crete in general. In addition, there are [reviews][2] of restaurants, places we have visited and services we use. Finally, there is more [information][3] about the villa.
+You can find [posts][1] about what is happening, both at the villa and in Crete in general. In addition, there are [reviews][2] of restaurants we have eaten at, places we have visited and services we use. Finally, there is more detailed [information][3] about the villa and its environs.
 
 [1]: /posts/
 [2]: /reviews/
