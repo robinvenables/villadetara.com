@@ -2,7 +2,6 @@
 title: "Biometric ID Cards"
 type: "post"
 date: 2021-09-27T13:00:00+02:00
-lead: "An appointment to have our fingerprints taken"
 tags: ["biometric","residency"]
 ---
 

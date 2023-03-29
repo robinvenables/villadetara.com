@@ -3,7 +3,6 @@ title: "Meterizi Restaurant Taverna"
 type: "post"
 date: 2021-10-27T14:39:01+01:00
 draft: true
-lead: "A village restaurant serving locally-sourced dishes"
 tags: ["food","kefalas","restaurants"]
 post_meta: []
 ---
