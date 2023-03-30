@@ -1,13 +1,20 @@
 /* villadetara.com amendments to Gokarna CSS */
 
 /* Home Page */
-.home-about, .home-content a:any-link {
+/* .home-about, .home-content a:any-link { */
+.home-content a:any-link {
   text-decoration: none;
+  color: var(--accent-color);
 }
 
 /* Post */
 .post-date-sub {
 	font-size: 14px
+}
+
+.post-content a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
 }
 
 /* Footer */
