@@ -5,7 +5,7 @@ date: 2022-08-24T17:00:00+03:00
 tags: ["heating","home"]
 ---
 
-Crete is warm, very hot in the summer but it can be very cold in the winter - they don't call them the White Mountains for nothing! Although the pipework is in place for a boiler and radiators, there is no heating in the house. As we are planning to live here all year round something needed to be done. Which is why I was in Crete, in August, watching the guys from VapoTherm in Vamos knock out the old, inefficient fireplace and install a brand-new wood-burner.
+Crete is warm, very hot in the summer but it can be very cold in the winter - they don't call them the White Mountains for nothing! Although the pipework is in place for a boiler and radiators, there is no heating in the house. As we are planning to live here all year round something needed to be done. Which is why I was in Crete, in August, watching the guys from YdroTherm in Vamos knock out the old, inefficient fireplace and install a brand-new wood-burner.
 
 ![Wood Burner](/images/wood-burner.jpeg)
 
