@@ -30,3 +30,18 @@
 .footer a:any-link {
 	text-decoration: none;
 }
+
+/* PREV/NEXT */
+.prev-post a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.next-post a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.prev-post, .next-post {
+  max-width: 49%;
+}
