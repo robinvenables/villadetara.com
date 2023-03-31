@@ -17,6 +17,11 @@
   color: var(--accent-color);
 }
 
+/* SINGLE */
+.post [role="doc-subtitle"] {
+  font-style: normal;
+}
+
 /* Footer */
 .footer {
 	font-size: 12px
