@@ -64,3 +64,9 @@ pygmentsStyle = "monokai"
     name = "AWS S3"
     URL = "s3://villadetara.com?region=eu-west-2"
     cloudFrontDistributionID = "E33G0WVXUM35IK"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
