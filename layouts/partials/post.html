@@ -3,7 +3,7 @@
         <h1>{{ .Title }}</h1>
         <small role="doc-subtitle">{{ .Description }}</small>
         <p class="post-date-sub">
-            {{ dateFormat "2 January 2006" .Date }}
+            {{ dateFormat "2 January 2006" .Date }} by {{ .Params.author }}
         </p>
 
         <ul class="post-tags">
