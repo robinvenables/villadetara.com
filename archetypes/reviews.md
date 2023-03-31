@@ -4,5 +4,6 @@ type: "posts"
 date: {{ .Date }}
 draft: true
 tags: []
-post_meta: ["date"]
+author: ""
+description: ""
 ---
