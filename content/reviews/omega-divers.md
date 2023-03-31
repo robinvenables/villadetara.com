@@ -3,13 +3,13 @@ title: "Omega Divers"
 type: "post"
 date: 2022-03-11T14:30:41Z
 tags: ["almyrida","diving","padi"]
+author: "Robin"
+description: "Omega Diving Center in Almyrida is a PADI 5* Diving Resort"
 ---
 
 ![Omega Divers](/images/omega-divers.jpeg)
 
-[Omega Diving Center][1] in Almyrida is a PADI 5* Diving Resort which offers recreational diving and courses for novice and experienced divers.
-
-We have dived with Omega Divers several times. They dive an old skeleton wreck (SS Minnewaska) where you'll see lion fish (yes, they have made it to the Mediterranean), Elephant Cave which has fossilised elephant teeth and stalactites, and several other sites.
+We have dived with [Omega Diving Center][1] several times. They dive an old skeleton wreck (SS Minnewaska) where you'll see lion fish (yes, they have made it to the Mediterranean), Elephant Cave which has fossilised elephant teeth and stalactites, and several other sites.
 
 Whichever site you are going to dive, the plan is much the same:
 
