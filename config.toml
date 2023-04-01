@@ -58,6 +58,12 @@ pygmentsStyle = "monokai"
     url = "/where-we-are/"
     weight = 50
 
+  [[menu.main]]
+    name = "Weather"
+    pre = "<span data-feather='sun'></span>"
+    url = "/weather/"
+    weight = 60
+
 [Deployment]
 
   [[Deployment.targets]]
