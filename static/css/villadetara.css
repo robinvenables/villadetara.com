@@ -1,13 +1,10 @@
 /* villadetara.com amendments to Gokarna CSS */
 
-/* Home Page */
-/* .home-about, .home-content a:any-link { */
 .home-content a:any-link {
   text-decoration: none;
   color: var(--accent-color);
 }
 
-/* Post */
 .post-date-sub {
 	font-size: 14px
 }
@@ -17,12 +14,10 @@
   color: var(--accent-color);
 }
 
-/* SINGLE */
 .post [role="doc-subtitle"] {
   font-style: normal;
 }
 
-/* Footer */
 .footer {
 	font-size: 12px
 }
@@ -31,7 +26,6 @@
 	text-decoration: none;
 }
 
-/* PREV/NEXT */
 .prev-post a:any-link {
   text-decoration: none;
   color: var(--accent-color);
@@ -48,5 +42,10 @@
 
 a:hover .feather-sun {
   fill: none;
+  color: var(--accent-color);
+}
+
+.nav-hamburger-list a:any-link {
+  text-decoration: none;
   color: var(--accent-color);
 }
