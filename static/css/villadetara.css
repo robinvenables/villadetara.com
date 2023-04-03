@@ -45,3 +45,8 @@
 .prev-post, .next-post {
   max-width: 49%;
 }
+
+a:hover .feather-sun {
+  fill: none;
+  color: var(--accent-color);
+}
