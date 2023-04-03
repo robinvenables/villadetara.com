@@ -29,7 +29,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "Posts"
-    pre = "<span data-feather='book'></span>"
+    pre = "<span data-feather='pen-tool'></span>"
     url = "/posts/"
     weight = 20
 
