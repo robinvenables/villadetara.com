@@ -39,20 +39,13 @@ pygmentsStyle = "monokai"
     url = "/tags/"
     weight = 30
 
-
   [[menu.main]]
     name = "Reviews"
     pre = "<span data-feather='thumbs-up'></span>"
     url = "/reviews/"
-    weight = 30
-
-  [[menu.main]]
-    name = "About"
-    pre = "<span data-feather='info'></span>"
-    url = "/about/"
     weight = 40
 
-  [[menu.main]]
+    [[menu.main]]
     name = "Location"
     pre = "<span data-feather='globe'></span>"
     url = "/location/"
@@ -63,6 +56,12 @@ pygmentsStyle = "monokai"
     pre = "<span data-feather='sun'></span>"
     url = "/weather/"
     weight = 60
+
+  [[menu.main]]
+    name = "About"
+    pre = "<span data-feather='info'></span>"
+    url = "/about/"
+    weight = 70
 
 [Deployment]
 
