@@ -47,7 +47,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "Location"
-    pre = "<span data-feather='globe'></span>"
+    pre = "<span data-feather='map'></span>"
     url = "/location/"
     weight = 50
 
