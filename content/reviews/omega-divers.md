@@ -14,7 +14,7 @@ We have dived with [Omega Diving Center][1] several times. They dive Elephant Ca
 Whichever site you are going to dive, the plan is much the same:
 
 - Meet at the Dive Center to meet your guides, fill out the medical forms and sort out out your kit.
-- Kit loaded onto the truck and take the minibus to the dive boat. This is generally in Almyrida (see the picture above) but if the weather is not so good may involve a trip to Souda for a larger boat.
+- Kit loaded onto the truck and take the minibus to the dive boat. This is generally in Almyrida but if the weather is not so good may involve a trip to Souda for a larger boat.
 - Boat ride to the dive site followed by briefing and then in the water for the first dive.
 - A packed-lunch and water are provided by Omega, and then you can enjoy the views for the rest of the surface interval.
 - Another briefing and back into the water for dive number two.
