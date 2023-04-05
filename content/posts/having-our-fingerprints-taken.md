@@ -17,6 +17,6 @@ We met with Kostas this morning to check all the paperwork was correct and one o
 
 ## Update 19 April 2022
 
-Kostas told us back in December that are cards were ready. However, this was our first chance to collect them. The process did not require an appointment and was much quicker than the initial one; we just had to show our passports and the temporary cards were swapped for the new, permanent ones.
+Kostas told us back in December that our cards were ready. However, this was our first chance to collect them. The process did not require an appointment and was much quicker than the initial one; we just had to show our passports and the temporary cards were swapped for the new, permanent ones.
 
 [1]: https://www.gov.uk/get-document-legalised
