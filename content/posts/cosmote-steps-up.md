@@ -4,7 +4,7 @@ type: "post"
 date: 2021-09-27T15:00:00+03:00
 author: "Robin"
 description: "Sorting out our Greek communications"
-tags: ["broadband","cosmote","mobile","utilities"]
+tags: ["broadband","cosmote","landline","mobile","utilities"]
 ---
 
 When we arrived at the house on Friday, we noticed that the broadband router only had the power light on. There was Wi-Fi but no Internet service. When I power-cycled it, the other lights illuminated as they should but then went out.
@@ -15,6 +15,6 @@ Getting a PAYG SIM was relatively easy; after showing some photo ID, and filling
 
 They offered me a deal including unlimited calls, texts and data SIM, and an unlimited data Mi-Fi SIM for about 2/3 the cost of the existing landline and broadband. I gave Deborah the PAYG SIM and signed up for this! The assistant entered a request to terminate the telephone line into the system and said I would receive a call to confirm this.
 
-When I spoke to our property lawyer this morning, I mentioned the deal we had received and that we were cancelling the landline. He recommended that we keep it as, with the limited number of lines available, we may wait a considerable time to reconnect. Thus, when COSMOTE called about the cancellation, I let the operative talk me into keeping the landline and broadband for a reduced cost (about 25% of the current) as it only runs at 3 Mb/s.
+When we saw our property lawyer this morning, I mentioned the deal we had received and that we were cancelling the landline. He recommended that we keep it as, with the limited number of lines available, we may wait a considerable time to reconnect. Thus, when COSMOTE called about the cancellation, I let the operative talk me into keeping the landline and broadband for a reduced cost (about 25% of the current) as it only runs at 3 Mb/s.
 
 The icing on the cake was when the 2 local COSMOTE engineers turned up as we were having lunch; they came in, looked at the router, power-cycled it, saw the result and pulled a replacement out of their van!
