@@ -2,9 +2,10 @@
 <div class="prev-post">
     <p>
         <a href="{{ .RelPermalink }}">
-            &#8592;
-            <b>{{ i18n "previous" }}:</b>
-            {{ .Title }}
+            <div class="nav-link">
+              <span data-feather='arrow-left-circle'></span>
+              {{ .Title }}
+            </div>
         </a>
     </p>
     <p class="prev-post-date">
@@ -17,9 +18,10 @@
 <div class="next-post">
     <p>
         <a href="{{ .RelPermalink }}">
-            <b>{{ i18n "next" }}:</b>
+          <div class="nav-link">
             {{ .Title }}
-            &#8594;
+            <span data-feather='arrow-right-circle'></span>
+          </div>
         </a>
     </p>
         <p class="next-post-date">
