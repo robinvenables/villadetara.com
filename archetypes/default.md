@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-type: "posts"
+type: "post"
 date: {{ .Date }}
 draft: true
 tags: []
