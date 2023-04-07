@@ -5,6 +5,7 @@ date: 2021-07-25T12:00:00+01:00
 tags: ["home","kefalas"]
 author: "Robin"
 description: "The beginning of our new life in Crete"
+image: "/images/pool-view.jpeg"
 ---
 
 ![Villa de Tara](/images/pool-view.jpeg)
