@@ -3,7 +3,7 @@ title: "Omega Divers"
 type: "post"
 date: 2022-03-11T14:30:41Z
 tags: ["almyrida","diving","padi"]
-author: "Robin"
+author: "Deborah"
 description: "Omega Diving Center in Almyrida is a PADI 5* Diving Resort"
 ---
 
