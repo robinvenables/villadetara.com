@@ -4,7 +4,7 @@ type: "post"
 date: 2022-06-17T06:00:00+01:00
 draft: true
 tags: ["almyrida","food","restaurants"]
-post_meta: []
+author: "Deborah"
 ---
 
 ![Psaros Restaurant](/images/psaros-restaurant.jpeg)
