@@ -5,5 +5,4 @@ date: {{ .Date }}
 draft: true
 tags: []
 author: ""
-description: ""
 ---
