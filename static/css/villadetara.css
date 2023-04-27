@@ -49,3 +49,8 @@ a:hover .feather-sun {
   text-decoration: none;
   color: var(--accent-color);
 }
+
+.text-404 a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
