@@ -21,7 +21,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v2
         with:
           role-to-assume: arn:aws:iam::845066828582:role/villadetaraGitHubActionsRole
-          role-session-name: robinvenables
+          role-session-name: villadetara
           aws-region: eu-west-2
 
       - name: Setup Hugo
