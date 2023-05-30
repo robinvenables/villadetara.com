@@ -3,7 +3,7 @@ title: "Meterizi Restaurant Taverna"
 type: "post"
 date: 2021-10-27T14:39:01+01:00
 draft: true
-tags: ["food","kefalas","restaurants"]
+tags: ["food","kefalas","restaurant"]
 author: "Deborah"
 ---
 
