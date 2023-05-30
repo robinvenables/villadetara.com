@@ -2,7 +2,7 @@
 title: "Collecting Our Residency Cards"
 type: "post"
 date: 2022-04-19T12:00:00+03:00
-tags: ["golden visa","residency"]
+tags: ["residency"]
 author: "Robin"
 description: "Another step on the way to living here"
 ---

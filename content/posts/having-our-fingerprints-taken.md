@@ -4,7 +4,7 @@ type: "post"
 date: 2021-09-27T13:00:00+03:00
 author: "Robin"
 description: "Registering for our Greek residency cards"
-tags: ["golden visa","residency"]
+tags: ["residency"]
 ---
 
 The Greek Golden Visa Program grants a five-year residence permit in exchange for a minimum €250,000 property investment in Greece (this is in Crete; other areas have higher requirements). We had informed our property lawyer, Kostas, of our intention to apply for these when we first spoke about the purchase. He informed us that the purchase transaction would have to go through our Greek bank account, even though the sellers were based in the UK too.
