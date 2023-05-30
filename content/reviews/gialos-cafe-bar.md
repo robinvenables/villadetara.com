@@ -3,7 +3,7 @@ title: "Gialos Cafe-Bar"
 type: "post"
 date: 2023-04-25T19:20:41+03:00
 draft: true
-tags: ["bar","food","plakias"]
+tags: ["bar","food","plakias","restaurants"]
 author: "Robin"
 ---
 
