@@ -2,7 +2,7 @@
 title: "It All Starts Here"
 type: "post"
 date: 2021-07-25T12:00:00+01:00
-tags: ["home","kefalas"]
+tags: ["house","kefalas"]
 author: "Robin"
 description: "The beginning of our new life in Crete"
 ---

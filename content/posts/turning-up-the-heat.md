@@ -2,7 +2,7 @@
 title: "Turning Up the Heat"
 type: "post"
 date: 2022-08-24T17:00:00+03:00
-tags: ["heating","home"]
+tags: ["heating","house"]
 author: "Robin"
 description: "Summer is the best time to install a wood-burner!"
 ---
