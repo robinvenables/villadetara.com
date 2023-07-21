@@ -5,7 +5,7 @@ date: 2023-07-16T09:00:00+03:00
 draft: true
 tags: ["furniture","house","kefalas","moving","nomad"]
 author: "Robin"
-description: ""
+description: "On Wednesday, I had a call from Spyros at NOMAD to say our furniture and house contents would be in Crete on Friday. We agreed that they could deliver on the same day. However, he sent another message on Thursday to say the furniture was coming by the day boat, arriving at 20:30. We agreed that Saturday morning would be OK, early, to try and avoid the extreme heat due to the Cerberus heatwave."
 ---
 
 On Wednesday, I had a call from Spyros at [NOMAD][1] to say our furniture and house contents would be in Crete on Friday. We agreed that they could deliver on the same day. However, he sent another message on Thursday to say the furniture was coming by the day boat, arriving at 20:30. We agreed that Saturday morning would be OK, early, to try and avoid the extreme heat due to the [Cerberus][2] heatwave.
