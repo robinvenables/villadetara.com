@@ -5,6 +5,7 @@ date: 2023-07-02T09:00:00+03:00
 tags: ["flypets","house","kefalas","moving","nomad"]
 author: "Robin"
 description: "Deborah, Jake and I finally make the move to Crete"
+card: "/images/flypets.jpeg"
 ---
 
 What a week it has been! After what seems like months of packing all our possessions into boxes, [NOMAD][1] turned up on Tuesday to take it all to Peterborough. From there they will transport everything to Patra in Greece and then onward to Villa de Tara via their depot in Vamos. The guys did a fantastic job packing the bits we hadn't (beds, lamps, pictures and mirrors) and loading them into their truck.
