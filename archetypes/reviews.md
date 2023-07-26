@@ -5,4 +5,5 @@ date: {{ .Date }}
 draft: true
 tags: []
 author: ""
+card: ""
 ---
