@@ -4,6 +4,7 @@ type: "post"
 date: 2022-03-11T14:30:41Z
 tags: ["almyrida","diving","padi"]
 author: "Deborah"
+card: "/images/omega-divers.jpeg"
 ---
 
 ![Omega Divers](/images/omega-divers.jpeg)

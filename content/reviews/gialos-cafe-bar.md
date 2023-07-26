@@ -5,6 +5,7 @@ date: 2023-04-25T19:20:41+03:00
 draft: true
 tags: ["bar","food","plakias","restaurant"]
 author: "Robin"
+card: "/images/gialos-cafe-bar.jpeg"
 ---
 
 ![Gialos Cafe-Bar](/images/gialos-cafe-bar.jpeg)
