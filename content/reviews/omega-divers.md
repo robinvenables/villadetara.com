@@ -9,7 +9,7 @@ card: "/images/omega-divers.jpeg"
 
 ![Omega Divers](/images/omega-divers.jpeg)
 
-The [Omega Diving Center][1] in Almyrida is a PADI 5* Diving Resort and we have dived with them several times. They dive Elephant Cave which has fossilised elephant teeth and stalactites, an old skeleton wreck (SS Minnewaska) where you'll see lion fish (yes, they have made it to the Mediterranean), and several other sites.
+The [Omega Diving Center][1] in Almyrida is a PADI 5* Diving Resort and we have dived with them several times. They dive [Elephant Cave][2] which has fossilised elephant teeth and stalactites, the skeleton wreck of the [SS Minnewaska][3] where you'll see lion fish (yes, they have made it to the Mediterranean), and several other sites.
 
 Whichever site you are going to dive, the plan is much the same:
 
@@ -21,3 +21,5 @@ Whichever site you are going to dive, the plan is much the same:
 - Boat-ride back to shore, bus to the dive center, fill in log-books and plan next day of diving.
 
 [1]: https://www.omegadivers.com
+[2]: https://www.cretanbeaches.com/en/caves/cave-of-the-elephants-drapano-chania
+[3]: https://wrecksite.eu/wreck.aspx?123827
