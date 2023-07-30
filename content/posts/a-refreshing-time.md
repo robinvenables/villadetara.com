@@ -2,7 +2,7 @@
 title: "A Refreshing Time"
 type: "post"
 date: 2023-07-29T17:00:00+03:00
-tags: ["beach","diving","koutalis"]
+tags: ["beach","diving","koutalas"]
 author: "Robin"
 description: "Getting back into the water after too long"
 card: "/images/koutalas-beach.jpeg"
