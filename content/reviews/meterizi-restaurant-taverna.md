@@ -5,7 +5,8 @@ date: 2021-10-27T14:39:01+01:00
 draft: true
 tags: ["food","kefalas","restaurant"]
 author: "Deborah"
-card: "/images/meterizi-restaurant-taverna.jpeg"
+images:
+- "/images/meterizi-restaurant-taverna.jpeg"
 ---
 
 ![Meterizi Restaurant Taverna](/images/meterizi-restaurant-taverna.jpeg)

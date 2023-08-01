@@ -10,7 +10,7 @@
 
     {{ $title := .Title | default .Site.Title }}
     {{ $description := .Description | default .Site.Params.Description }}
-    {{ $image := .Params.card | default .Site.Params.AvatarURL }}
+    {{ $image := (index .Params.images 0) | default .Site.Params.AvatarURL }}
     {{ $siteKeywords := .Site.Params.MetaKeywords | default (slice) }}
     {{ $postKeywords := .Params.tags | default (slice) }}
     {{ $keywords := union $siteKeywords $postKeywords }}

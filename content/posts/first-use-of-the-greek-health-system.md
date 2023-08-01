@@ -5,7 +5,8 @@ date: 2023-07-10T14:00:00+03:00
 tags: ["healthcare","pharmacy","vamos"]
 author: "Robin"
 description: "Medical attention for an insect bite"
-card: "/images/vamos-health-centre.jpeg"
+images:
+- "/images/vamos-health-centre.jpeg"
 ---
 
 Deborah got an insect bite on her chest at the end of last week. Over the past couple of days it has become more inflamed and a rash has spread out from it. This morning she decided that she wanted to see a doctor. Armed with her European Health Insurance Card (EHIC) we set off for Vamos Health Centre.

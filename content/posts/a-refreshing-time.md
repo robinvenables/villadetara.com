@@ -5,7 +5,8 @@ date: 2023-07-29T17:00:00+03:00
 tags: ["beach","diving","koutalas"]
 author: "Robin"
 description: "Getting back into the water after too long"
-card: "/images/koutalas-beach.jpeg"
+images:
+- "/images/koutalas-beach.jpeg"
 ---
 
 Deborah and I decided it had been far too long since we had been diving; our last ones were in October 2021! Eager to do things correctly, we booked our refresher dives with [Omega Divers][1] for this morning.

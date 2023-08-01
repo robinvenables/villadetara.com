@@ -5,7 +5,8 @@ date: 2023-04-25T14:00:00+03:00
 draft: true
 tags: ["diving","padi","plakias"]
 author: "Robin"
-card: "/images/plakias.jpeg"
+images:
+- "/images/plakias.jpeg"
 ---
 
 ![Plakias](/images/plakias.jpeg)

@@ -5,7 +5,8 @@ date: 2022-08-24T17:00:00+03:00
 tags: ["heating","house"]
 author: "Robin"
 description: "Summer is the best time to install a wood-burner!"
-card: "/images/wood-burner.jpeg"
+images:
+- "/images/wood-burner.jpeg"
 ---
 
 Crete is very hot in the summer but it can be very cold in the winter - they don't call them the White Mountains for nothing! Although the pipework is in place for a boiler and radiators, there is no heating in the house. As we are planning to live here all year round something needed to be done. Which is why I was in Crete, in August, watching the guys from YdroTherm in Vamos knock out the old, inefficient fireplace and install a brand-new wood-burner.
