@@ -5,6 +5,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
+newContentEditor = "code"
 
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "solarized-dark256"
@@ -75,3 +76,16 @@ pygmentsStyle = "solarized-dark256"
     startLevel = 1
     endLevel = 3
     ordered = false
+
+[security]
+
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^code$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
