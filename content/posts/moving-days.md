@@ -2,7 +2,7 @@
 title: "Moving Days"
 type: "post"
 date: 2023-07-02T09:00:00+03:00
-tags: ["flypets","house","kefalas","moving","nomad"]
+tags: ["flypets","house","jake","kefalas","moving","nomad"]
 author: "Robin"
 description: "Deborah, Jake and I finally make the move to Crete"
 images:
