@@ -24,4 +24,4 @@ All through the dive there were plenty of fish. We have dived Elephants Cave/Lig
 
 Now it's time to book some more boat dives for us, and for family who are coming out in a couple of weeks.
 
-[1]: "reviews/omega-divers"
+[1]: "/reviews/omega-divers"
