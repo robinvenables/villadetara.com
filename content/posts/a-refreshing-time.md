@@ -9,12 +9,11 @@ images:
 - "/images/koutalas-beach.jpeg"
 ---
 
-Deborah and I decided it had been far too long since we had been diving; our last ones were in October 2021! Eager to do things correctly, we booked our refresher dives with [Omega Divers][1] for this morning.
+Deborah and I decided it had been far too long since we had been diving; our last ones were in October 2021! Eager to do things correctly, we booked our refresher dives with [Omega Divers]({{< ref "/reviews/omega-divers" >}} "Omega Divers") for this morning.
 
 After the mandatory form filling and waiting for the briefing for the Discover Scuba Diving participants to finish, we loaded our kit onto the pickup and boarded the minibus. We arrived at Koutalas Beach after about 10 minutes, driving down a very steep, narrow and winding track. No goats were harmed on our journey, honest!
 
 ![Koutalas Beach](/images/koutalas-beach.jpeg)
-
 
 The beach is in a delightful bay providing shelter from the breeze and is a definite sun-trap. It is made up of large round pebbles and stones and has a very gentle gradient into the water. Like many in Crete, it is people in the know who visit, mainly small families with young children and couples. And us divers, of course.
 
@@ -24,4 +23,3 @@ All through the dive there were plenty of fish. We have dived Elephants Cave/Lig
 
 Now it's time to book some more boat dives for us, and for family who are coming out in a couple of weeks.
 
-[1]: "/reviews/omega-divers"
