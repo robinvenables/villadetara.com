@@ -2,7 +2,6 @@
 title: "An (Almost) Family Affair"
 type: "post"
 date: 2023-08-20T09:00:00+03:00
-draft: true
 tags: ["diving","family","padi"]
 author: "Robin"
 description: "Introducing our visitor to some local dive sites"
