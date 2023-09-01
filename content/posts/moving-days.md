@@ -9,7 +9,7 @@ images:
 - "/images/flypets.jpeg"
 ---
 
-What a week it has been! After what seems like months of packing all our possessions into boxes, [NOMAD][1] turned up on Tuesday to take it all to Peterborough. From there they will transport everything to Patra in Greece and then onward to Villa de Tara via their depot in Vamos. The guys did a fantastic job packing the bits we hadn't (beds, lamps, pictures and mirrors) and loading them into their truck.
+What a week it has been! After what seems like months of packing all our possessions into boxes, [NOMAD][1] turned up on Tuesday to take it all to Peterborough. From there they will transport everything to Patra in Greece and then onward to Villa de Tara via their depot in Chania. The guys did a fantastic job packing the bits we hadn't (beds, lamps, pictures and mirrors) and loading them into their truck.
 
 Having sent the house contents on their way, it was time to move people and a dog. I dropped Deborah off at Heathrow on Wednesday morning and on Thursday it was time for Jake to start his journey. I took him to [FlyPets][2] in Chertsey; see how impressed he was:
 
