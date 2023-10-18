@@ -69,7 +69,7 @@ pygmentsStyle = "solarized-dark256"
   [[Deployment.targets]]
     name = "AWS S3"
     URL = "s3://villadetara.com?region=eu-west-2"
-    cloudFrontDistributionID = "E33G0WVXUM35IK"
+    cloudFrontDistributionID = "EGQ0X2GIZCINI"
 
 [markup]
   [markup.tableOfContents]
