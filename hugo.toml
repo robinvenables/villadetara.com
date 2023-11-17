@@ -47,12 +47,6 @@ pygmentsStyle = "solarized-dark256"
     weight = 40
 
   [[menu.main]]
-    name = "Location"
-    pre = "<span data-feather='map'></span>"
-    url = "/location/"
-    weight = 50
-
-  [[menu.main]]
     name = "Weather"
     pre = "<span data-feather='sun'></span>"
     url = "/weather/"
