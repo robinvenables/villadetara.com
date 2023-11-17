@@ -64,13 +64,6 @@ pygmentsStyle = "solarized-dark256"
     url = "/about/"
     weight = 70
 
-[Deployment]
-
-  [[Deployment.targets]]
-    name = "AWS S3"
-    URL = "s3://villadetara.com?region=eu-west-2"
-    cloudFrontDistributionID = "EGQ0X2GIZCINI"
-
 [markup]
   [markup.tableOfContents]
     startLevel = 1
