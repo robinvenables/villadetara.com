@@ -1,14 +1,14 @@
 baseURL = "https://www.villadetara.com"
 title = "Villa de Tara"
-theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 newContentEditor = "code"
 
-# Choose one of emacs, trac or perldoc
-pygmentsStyle = "solarized-dark256"
+[module]
+  [[module.imports]]
+    path = 'github.com/526avijitgupta/gokarna'
 
 [params]
   mainSections = ["posts", "reviews"]
