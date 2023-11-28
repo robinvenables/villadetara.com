@@ -21,6 +21,7 @@ newContentEditor = "code"
   metaKeywords = ["blog", "gokarna", "hugo"]
   togglePreviousAndNextButtons = "true"
   showPostsOnHomePage = "recent"
+  recentPostsCount = 3
 
 [menu]
   [[menu.main]]
