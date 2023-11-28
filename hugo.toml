@@ -20,6 +20,7 @@ newContentEditor = "code"
   avatarSize = "size-xl"
   metaKeywords = ["blog", "gokarna", "hugo"]
   togglePreviousAndNextButtons = "true"
+  showPostsOnHomePage = "recent"
 
 [menu]
   [[menu.main]]
