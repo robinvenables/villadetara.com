@@ -1,8 +1,4 @@
----
-title: "Welcome to Villa de Tara"
-date: 2021-06-01T08:00:00+01:00
-draft: false
----
+***
 
 Welcome to the website for our home on the beautiful island of Crete!
 

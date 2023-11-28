@@ -1,6 +1,13 @@
 /* villadetara.com amendments to Gokarna CSS */
 
-.home-content a:any-link {
+.markdown-content {
+  text-align: center;
+  line-height: 1.25;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.markdown-content a:any-link {
   text-decoration: none;
   color: var(--accent-color);
 }
