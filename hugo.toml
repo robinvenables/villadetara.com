@@ -1,7 +1,7 @@
 baseURL = "https://www.villadetara.com"
 title = "Villa de Tara"
-languageCode = "en-GB"
-defaultContentLanguage = "en-gb"
+languageCode = "en"
+defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 newContentEditor = "code"
