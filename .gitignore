@@ -1,4 +1,4 @@
 .DS_Store
-deploy.out
+themes/*
 public
 .hugo_build.lock
