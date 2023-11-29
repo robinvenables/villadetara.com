@@ -5,6 +5,7 @@ defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 newContentEditor = "code"
+enableGitInfo = true
 
 [module]
   [[module.imports]]
