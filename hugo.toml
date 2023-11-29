@@ -12,7 +12,6 @@ newContentEditor = "code"
 
 [params]
   mainSections = ["posts", "reviews"]
-  themeMode = "dark"
   accentColor = "#0d5eaf"
   description = "Kefalas, Crete | Κεφαλάς, Κρήτη"
   avatarURL = "/images/pool-view.jpeg"
