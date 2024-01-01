@@ -2,7 +2,6 @@
 title: "New Year 2024"
 type: "post"
 date: 2024-01-01T12:00:00+02:00
-draft: true
 tags: ["family","holidays","house"]
 author: "Robin"
 description: "Καλή Χρονιά!"
