@@ -14,7 +14,7 @@ enableGitInfo = true
 [params]
   mainSections = ["posts", "reviews"]
   accentColor = "#0d5eaf"
-  description = "Kefalas, Crete | Κεφαλάς, Κρήτη"
+  description = "Kefalas, Crete"
   avatarURL = "/images/pool-view.jpeg"
   avatarAltText = "Villa de Tara"
   avatarSize = "size-xl"
