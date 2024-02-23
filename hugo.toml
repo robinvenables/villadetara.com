@@ -48,11 +48,11 @@ enableGitInfo = true
     url = "/tags/"
     weight = 40
 
-  [[menu.main]]
-    name = "Weather"
-    pre = "<span data-feather='sun'></span>"
-    url = "/weather/"
-    weight = 60
+#  [[menu.main]]
+#    name = "Weather"
+#    pre = "<span data-feather='sun'></span>"
+#    url = "/weather/"
+#    weight = 60
 
   [[menu.main]]
     name = "About"
