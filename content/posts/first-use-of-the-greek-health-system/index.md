@@ -6,12 +6,12 @@ tags: ["healthcare","pharmacy","vamos"]
 author: "Robin"
 description: "Medical attention for an insect bite"
 images:
-- "/images/vamos-health-centre.jpeg"
+- "vamos-health-centre.jpeg"
 ---
 
 Deborah got an insect bite on her chest at the end of last week. Over the past couple of days it has become more inflamed and a rash has spread out from it. This morning she decided that she wanted to see a doctor. Armed with her European Health Insurance Card (EHIC) we set off for Vamos Health Centre.
 
-![Vamos Health Centre](/images/vamos-health-centre.jpeg)
+![Vamos Health Centre](vamos-health-centre.jpeg)
 
 When we arrived we saw that there was sign asking all visitors to wear a face make. Not having had to wear a mask for so long, neither of us was carrying one. However, when Deborah spoke to the receptionist, she gave her one from behind the counter. I opted to wait outside. Of all the people I saw wearing masks, it was two medical staff wearing them with just their mouths covered and noses exposed that were the most amusing.
 

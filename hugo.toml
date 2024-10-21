@@ -7,6 +7,9 @@ enableRobotsTXT = true
 newContentEditor = "code"
 enableGitInfo = true
 
+[Permalinks]
+   posts = "/:year/:month/:filename/"
+
 [module]
   [[module.imports]]
     path = 'github.com/526avijitgupta/gokarna'

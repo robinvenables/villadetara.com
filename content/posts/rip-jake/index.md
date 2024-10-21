@@ -6,7 +6,7 @@ tags: ["jake"]
 author: "Robin"
 description: "19 April 2016 - 11 August 2023"
 images:
-- "/images/jake.jpeg"
+- "jake.jpeg"
 ---
 
-![Jake](/images/jake.jpeg)
+![Jake](./images/jake.jpeg)
