@@ -1,11 +1,11 @@
 name: Deploy villadetara.com to GitHub Pages
 
 on:
-  #push:
-  #  branches:
-  #    - main
+  push:
+    branches:
+      - main
 
-  #workflow_dispatch:
+  workflow_dispatch:
 
   #schedule:
   #  - cron: '0 6 * * *'
