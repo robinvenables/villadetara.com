@@ -18,7 +18,7 @@ jobs:
       SSH_PORT: ${{ secrets.SSH_PORT }}
       SSH_TARGET_DIR: "/volume1/web/${WEBSITE}"
       SCP_CMD: "scp -o StrictHostKeyChecking=no -P ${SSH_PORT} -i ./id_ed25519"
-      SSH_CMD: "scp -o StrictHostKeyChecking=no -p ${SSH_PORT} -i ./id_ed25519"
+      SSH_CMD: "ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i ./id_ed25519"
 
     steps:
     - name: Checkout repository
