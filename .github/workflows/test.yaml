@@ -40,6 +40,6 @@ jobs:
         echo "$SSH_PRIVATE_KEY" > id_ed25519 && chmod 600 id_ed25519
         export RSYNC_RSH="ssh -p $SSH_PORT -i id_rsa"
         tar -czf site.tar.gz -C public .
-        scp -P $SSH_PORT -O site.tar.gz $SSH_USER@$SSH_HOST:/volume1/homes/$SSH_USER/site.tar.gz
-        ssh -p $SSH_PORT -i id_rsa $SSH_USER@$SSH_HOST "sudo tar -xzf \
+        scp -o StrictHostKeyChecking=no -P $SSH_PORT -O site.tar.gz $SSH_USER@$SSH_HOST:/volume1/homes/$SSH_USER/site.tar.gz
+        ssh -o StrictHostKeyChecking=no -p $SSH_PORT -i id_rsa $SSH_USER@$SSH_HOST "sudo tar -xzf \
             /volume1/homes/$SSH_USER/site.tar.gz -C $SSH_TARGET_DIR"
