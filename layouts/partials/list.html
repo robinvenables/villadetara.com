@@ -1,0 +1,19 @@
+<div class="container list-posts">
+  {{ if (eq .Name "flypets") }}
+    <h1 class="list-title">FlyPets</h1>
+  {{ else if or (eq .Name "ikea") (or (eq .Name "nomad") (eq .Name "padi")) }}
+    <h1 class="list-title">{{ .Name | upper }}</h1>
+  {{ else }}
+    <h1 class="list-title">{{ .Name | title }}</h1>
+  {{ end }}
+
+  {{ range (where .Pages "Params.type" "post" ).GroupByDate "2006" }}
+    <h2 class="posts-year">{{ .Key }}</h2>
+
+    {{- range .Pages -}}
+        {{- partial "list-posts.html" . -}}
+    {{ end }}
+
+  {{ end }}
+
+</div>

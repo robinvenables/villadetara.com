@@ -1,0 +1,72 @@
+/* villadetara.com amendments to Gokarna CSS */
+
+:root {
+  --light-secondary-color: #0d5eaf;
+}
+
+.markdown-content {
+  text-align: center;
+  line-height: 1.25;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.markdown-content a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.post-date-sub {
+	font-size: 14px
+}
+
+.post-content a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.post [role="doc-subtitle"] {
+  font-style: normal;
+}
+
+.footer {
+	font-size: 12px
+}
+
+.footer a:any-link {
+	text-decoration: none;
+}
+
+.prev-post a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.next-post a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.prev-post, .next-post {
+  max-width: 49%;
+}
+
+a:hover .feather-sun {
+  fill: none;
+  color: var(--accent-color);
+}
+
+.nav-hamburger-list a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+.text-404 a:any-link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
+
+table thead {
+  background-color: var(--light-secondary-color);
+  color: #ffffff;
+}

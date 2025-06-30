@@ -1,0 +1,14 @@
+# Side menu
+- id: sidemenu_title
+  translation: "Quick Links"
+
+# 404
+- id: 404_title
+  translation: "404 - Page not found"
+
+- id: 404_text
+  translation:
+    "We are sorry, but the URL you typed does not exist. It may have been moved or deleted, or perhaps you mistyped it. Click to return to the "
+
+- id: 404_linktext
+  translation: "Home Page"

@@ -1,0 +1,15 @@
+- who: Sam, Chris and Natie
+  arrival: 23 July 2025
+  departure: 5 August 2025
+  inbound: LHR - CHQ BA0660 12:40
+  outbound: CHQ - LHR BA0661 15:50
+- who: Lisa, Chris and Immy
+  arrival: 19 August 2025
+  departure: 1 September 2025
+  inbound: TBA
+  outbound: TBA
+- who: Jane and Frank
+  arrival: 10 September 2025
+  departure: 18 September 2025
+  inbound: TBA
+  outbound: TBA

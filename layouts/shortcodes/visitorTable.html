@@ -1,0 +1,32 @@
+{{ $filename := .Get 0 }}
+{{ $visitors := index .Site.Data.visitors $filename }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Who</th>
+      {{ if eq $filename "bookings" }}
+      <th>Arriving</th>
+      <th>Departing</th>
+      {{ else }}
+      <th>Arrived</th>
+      <th>Departed</th>
+      {{ end }}
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $visitors }}
+      <tr>
+        <td>{{ .who }}</td>
+        {{ if eq $filename "bookings" }}
+        <td title="{{ .inbound }}">{{ .arrival }}</td>
+        <td title="{{ .outbound }}">{{ .departure }}</td>
+        {{ else }}
+        <td>{{ .arrival }}</td>
+        <td>{{ .departure }}</td>
+        {{ end }}
+      </tr>
+    {{ end }}
+  </tbody>
+</table>
+
