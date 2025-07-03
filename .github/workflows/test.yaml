@@ -31,7 +31,7 @@ jobs:
         sudo mv hugo /usr/local/bin/
 
     - name: Build Hugo Site
-      run: hugo --minify --baseURL https://${WEBSITE}
+      run: hugo --environment development --minify --baseURL https://${WEBSITE}
 
     - name: Deploy to Synology NAS
       run: |
