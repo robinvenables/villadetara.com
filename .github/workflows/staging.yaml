@@ -1,4 +1,4 @@
-name: Deploy test.villadetara.com to Synology NAS
+name: Deploy staging.villadetara.com to Synology NAS
 
 on:
   push:
@@ -28,7 +28,7 @@ jobs:
         sudo mv hugo /usr/local/bin/
 
     - name: Build Hugo Site
-      run: hugo --environment development --minify --baseURL https://test.${WEBSITE} --buildDrafts --buildFuture --logLevel ${LOG_LEVEL}
+      run: hugo --environment staging --minify --baseURL https://staging.${WEBSITE} --logLevel ${LOG_LEVEL}
 
     - name: Deploy to Synology NAS
       env:
@@ -38,6 +38,6 @@ jobs:
       run: |
         mkdir .ssh && chmod 700 .ssh && echo "${SSH_PRIVATE_KEY}" > .ssh/id_ed25519 && chmod 600 .ssh/id_ed25519
         tar -czf ${WEBSITE}.tar.gz -C public .
-        scp -o StrictHostKeyChecking=no -P ${SSH_PORT} -i .ssh/id_ed25519 -O ${WEBSITE}.tar.gz ${SSH_USER}@test.${WEBSITE}:
-        ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i .ssh/id_ed25519 ${SSH_USER}@test.${WEBSITE} "sudo tar -xzf ${WEBSITE}.tar.gz -C /volume1/web/test.${WEBSITE}"
-        ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i .ssh/id_ed25519 ${SSH_USER}@test.${WEBSITE} "rm -f ${WEBSITE}.tar.gz"
+        scp -o StrictHostKeyChecking=no -P ${SSH_PORT} -i .ssh/id_ed25519 -O ${WEBSITE}.tar.gz ${SSH_USER}@staging.${WEBSITE}:
+        ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i .ssh/id_ed25519 ${SSH_USER}@staging.${WEBSITE} "sudo tar -xzf ${WEBSITE}.tar.gz -C /volume1/web/staging.${WEBSITE}"
+        ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i .ssh/id_ed25519 ${SSH_USER}@staging.${WEBSITE} "rm -f ${WEBSITE}.tar.gz"
