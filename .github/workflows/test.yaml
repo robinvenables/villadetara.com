@@ -39,4 +39,4 @@ jobs:
         echo "${SSH_PRIVATE_KEY}" > id_ed25519 && chmod 600 id_ed25519
         tar -czf ${WEBSITE}.tar.gz -C public .
         scp -o StrictHostKeyChecking=no -P ${SSH_PORT} -i ./id_ed25519 -O ${WEBSITE}.tar.gz ${SSH_USER}@${WEBSITE}:
-        ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i ./id_ed25519 ${SSH_USER}@${WEBSITE} "sudo tar -xzvf ${WEBSITE}.tar.gz -C ${SSH_TARGET_DIR} > ${WEBSITE}.out 2>&1"
+        ssh -o StrictHostKeyChecking=no -p ${SSH_PORT} -i ./id_ed25519 ${SSH_USER}@${WEBSITE} "sudo tar -xzf ${WEBSITE}.tar.gz -C ${SSH_TARGET_DIR}"
