@@ -59,7 +59,7 @@ jobs:
     - name: rsync to Synology NAS
       env:
         REMOTE_HOST: ${{ env.REMOTE_HOST }}
-        RSYNC_OPTIONS: ${{ env,RSYNC_OPTIONS }}
+        RSYNC_OPTIONS: ${{ env.RSYNC_OPTIONS }}
       run: rsync ${RSYNC_OPTIONS} public/* ${REMOTE_HOST}:${TRANSFER_DIR}
 
     - name: Copy to website directory
