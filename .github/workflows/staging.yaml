@@ -25,10 +25,10 @@ jobs:
         echo "BASE_URL=${BASE_URL}" >> ${GITHUB_ENV}
         REMOTE_HOST="${SSH_USER}@staging.${WEBSITE}"
         echo "REMOTE_HOST=${REMOTE_HOST}" >> ${GITHUB_ENV}
+        RSYNC_OPTIONS="--compress --delete --recursive --verbose"
+        echo "RSYNC_OPTIONS=${RSYNC_OPTIONS}" >> ${GITHUB_ENV}
         SSH_OPTIONS="-p ${SSH_PORT} -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /home/runner/.ssh/id_ed25519"
         echo "SSH_OPTIONS=${SSH_OPTIONS}" >> ${GITHUB_ENV}
-        RSYNC_OPTIONS="--compress --delete --recursive --rsh=\"ssh ${SSH_OPTIONS}\" --verbose"
-        echo "RSYNC_OPTIONS=${RSYNC_OPTIONS}" >> ${GITHUB_ENV}
         TRANSFER_DIR="staging.${WEBSITE}/public"
         echo "TRANSFER_DIR=${TRANSFER_DIR}" >> ${GITHUB_ENV}
         WEBSITE_DIR="/volume1/web/staging.${WEBSITE}"
@@ -61,7 +61,8 @@ jobs:
       env:
         REMOTE_HOST: ${{ env.REMOTE_HOST }}
         RSYNC_OPTIONS: ${{ env.RSYNC_OPTIONS }}
-      run: rsync ${RSYNC_OPTIONS} public/* ${REMOTE_HOST}:${TRANSFER_DIR}
+        SSH_OPTIONS: ${{ env.SSH_OPTIONS }}
+      run: rsync ${RSYNC_OPTIONS} --rsh="${SSH_OPTIONS}" public/* ${REMOTE_HOST}:${TRANSFER_DIR}
 
     - name: Copy to website directory
       env:
