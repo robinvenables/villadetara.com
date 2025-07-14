@@ -27,7 +27,7 @@ jobs:
         echo "REMOTE_HOST=${REMOTE_HOST}" >> ${GITHUB_ENV}
         SSH_OPTIONS="-p ${SSH_PORT} -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /home/runner/.ssh/id_ed25519"
         echo "SSH_OPTIONS=${SSH_OPTIONS}" >> ${GITHUB_ENV}
-        RSYNC_OPTIONS="--verbose --delete --compress --recursive --rsh=\"ssh ${SSH_OPTIONS}\""
+        RSYNC_OPTIONS="--compress --delete --recursive --rsh=\"ssh ${SSH_OPTIONS}\" --verbose"
         echo "RSYNC_OPTIONS=${RSYNC_OPTIONS}" >> ${GITHUB_ENV}
         TRANSFER_DIR="staging.${WEBSITE}/public"
         echo "TRANSFER_DIR=${TRANSFER_DIR}" >> ${GITHUB_ENV}
