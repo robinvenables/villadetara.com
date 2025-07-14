@@ -23,7 +23,7 @@ jobs:
       run: |
         BASE_URL="https://staging.${WEBSITE}"
         echo "BASE_URL=${BASE_URL}" >> ${GITHUB_ENV}
-        REMOTE_HOST="${SSH_USER}@staging.${WEBSITE}
+        REMOTE_HOST="${SSH_USER}@staging.${WEBSITE}"
         echo "REMOTE_HOST=${REMOTE_HOST}" >> ${GITHUB_ENV}
         SSH_OPTIONS="-p ${SSH_PORT} -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /home/runner/.ssh/id_ed25519"
         echo "SSH_OPTIONS=${SSH_OPTIONS}" >> ${GITHUB_ENV}
