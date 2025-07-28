@@ -1,4 +1,4 @@
-name: Deploy staging.robinvenables.com
+name: Deploy staging.villadetara.com
 
 on:
   push:
