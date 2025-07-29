@@ -8,8 +8,13 @@
   departure: 1 September 2025
   inbound: TBA
   outbound: TBA
+- who: Simon
+  arrival: 4 September 2025
+  departure: 11 September 2025
+  inbound: BRS - CHQ LS1887 14:15
+  outbound: CHQ - BRS LS1888 15:00
 - who: Jane and Frank
-  arrival: 10 September 2025
-  departure: 17 September 2025
-  inbound: TBA
-  outbound: TBA
+  arrival: 11 September 2025
+  departure: 18 September 2025
+  inbound: BRS - CHQ LS1887 14:15
+  outbound: CHQ - BRS LS1888 15:00
