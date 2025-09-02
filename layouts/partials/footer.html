@@ -9,6 +9,8 @@
       Powered by Synology Web Station.
       {{ else if eq hugo.Environment "development" }}
       Development running locally.
+      {{ else if eq hugo.Environment "home-lan" }}
+      LAN Test running on leonard.
       {{ end }}      
     </span>
 </footer>
