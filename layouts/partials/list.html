@@ -1,5 +1,7 @@
 <div class="container list-posts">
-  {{ if (eq .Name "flypets") }}
+  {{ if (eq .Name "Blogs") }}
+    <h1 class="list-title">Blog</h1>
+  {{ else if (eq .Name "flypets") }}
     <h1 class="list-title">FlyPets</h1>
   {{ else if or (eq .Name "ikea") (or (eq .Name "nomad") (eq .Name "padi")) }}
     <h1 class="list-title">{{ .Name | upper }}</h1>

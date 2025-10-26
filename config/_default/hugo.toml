@@ -33,7 +33,7 @@ newContentEditor = "code"
   [[menu.main]]
     name = "Blog"
     pre = "<span data-feather='pen-tool'></span>"
-    url = "/posts/"
+    url = "/blog/"
     weight = 20
 
   [[menu.main]]
