@@ -31,7 +31,7 @@ jobs:
         echo "RSYNC_OPTIONS=${RSYNC_OPTIONS}" >> ${GITHUB_ENV}
         SSH_OPTIONS="-p ${SSH_PORT} -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /home/runner/.ssh/id_ed25519"
         echo "SSH_OPTIONS=${SSH_OPTIONS}" >> ${GITHUB_ENV}
-        TRANSFER_DIR="projects/staging.${WEBSITE}.com/public"
+        TRANSFER_DIR="projects/staging.${WEBSITE}.com"
         echo "TRANSFER_DIR=${TRANSFER_DIR}" >> ${GITHUB_ENV}
         WEBSITE_DIR="/opt/local/www/apache2/html/${WEBSITE}"
         echo "WEBSITE_DIR=${WEBSITE_DIR}" >> ${GITHUB_ENV}
