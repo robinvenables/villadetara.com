@@ -5,13 +5,10 @@ defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 newContentEditor = "code"
+theme = "gokarna"
 
 [Permalinks]
    posts = "/:year/:month/:contentbasename/"
-
-[module]
-  [[module.imports]]
-    path = 'github.com/526avijitgupta/gokarna'
 
 [params]
   mainSections = ["posts", "reviews"]
